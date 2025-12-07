@@ -43,8 +43,8 @@ const Index = () => {
       <Navigation />
       <main>
         <HeroSection heroImage={sarahPortrait} />
-        <AboutSection />
         <ProjectsSection projects={projects} />
+        <AboutSection />
         <ContactSection />
       </main>
       <Footer />
