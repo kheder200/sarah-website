@@ -5,7 +5,7 @@ const ContactSection = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'hi_sarah_i_dont_have_ur_mail@mail.com',
+      value: 'hello-sarah💗@gmail.com',
       href: 'mailto:hello@sarahdesigns.com',
     },
     {
@@ -128,3 +128,4 @@ const ContactSection = () => {
 };
 
 export default ContactSection;
+
