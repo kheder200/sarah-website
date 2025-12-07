@@ -113,7 +113,7 @@ const ContactSection = () => {
             <div className="p-6 rounded-2xl border border-primary/20 bg-gradient-to-r from-pink-100/40 to-pink-50/30">
               <h3 className="font-display text-xl text-foreground mb-2">Prefer a call?</h3>
               <p className="text-muted-foreground mb-4">
-                Share a few details and I'll set up a quick intro call to understand what you need.
+              you can call kheder because I will not responde 0935750906
               </p>
               <div className="flex flex-wrap gap-3 text-sm text-muted-foreground">
                 <span className="px-3 py-1 rounded-full bg-primary/10 text-primary font-medium">15 min intro</span>
@@ -128,4 +128,3 @@ const ContactSection = () => {
 };
 
 export default ContactSection;
-
