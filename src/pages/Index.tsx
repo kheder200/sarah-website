@@ -15,7 +15,7 @@ import project3After from '@/assets/project3-after.jpg';
 
 const projects = [
   {
-    title: 'Fashion E-commerce Redesign',
+    title: 'cool kids',
     client: 'kheder-company.com',
     description: 'look how much its cool now after i redesigning it! it',
     beforeImage: project1Before,
@@ -53,3 +53,4 @@ const Index = () => {
 };
 
 export default Index;
+
