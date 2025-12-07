@@ -6,10 +6,10 @@ interface HeroSectionProps {
 
 const HeroSection = ({ heroImage }: HeroSectionProps) => {
   const phrases = [
-    "someone love me but I dont care",
+    "Hi there !",
     "I can hack any network",
-    "I'm UI/UX Designer.",
-    "I have beautiful blue eyes",
+    "I'm a UI/UX and life Designer .",
+    "look at my eyes I'll hack you!",
   ];
 
   const scrollToAbout = () => {
