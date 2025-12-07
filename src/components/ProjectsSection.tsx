@@ -25,8 +25,7 @@ const ProjectsSection = ({ projects }: ProjectsSectionProps) => {
             Featured <span className="text-gradient">Projects</span>
           </h2>
           <p className="mt-4 text-muted-foreground max-w-2xl mx-auto">
-            Swipe or drag the slider to see the transformation. Each project showcases 
-            the power of thoughtful design.
+            here is some of my projects 💗🤍🌸.
           </p>
         </div>
 
